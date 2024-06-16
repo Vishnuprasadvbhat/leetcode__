@@ -23,10 +23,9 @@ s and t consist of lowercase English letters.
 
 s = "jar"
 t = "jam"
-<<<<<<< HEAD
+
 # o(n) approach
-=======
->>>>>>> origin/master
+
 
 def checkk_anagram(s,t):
     if len(s) != len(t):
@@ -48,7 +47,7 @@ def checkk_anagram(s,t):
         print(False)
 
 checkk_anagram(s,t)
-<<<<<<< HEAD
+
 
 
 """
@@ -62,5 +61,3 @@ for i in len((s)):
     else:
         return False
 """
-=======
->>>>>>> origin/master
