@@ -16,5 +16,7 @@ Example 2:
 Input: nums = [-1,0,1,2,3]
 
 Output: [0,-6,0,0,0]
-"""`
-
+"""
+nums = [1,2,4,6]
+rev = list(reversed(nums))
+print(rev)
